@@ -39,6 +39,7 @@ The project analyzes accident-related data to understand accident severity, vehi
 - Trend & Pattern Analysis
 - Business Data Interpretation
 
+
 ## 👩‍💻 Author
 
 **Rashidha R**
